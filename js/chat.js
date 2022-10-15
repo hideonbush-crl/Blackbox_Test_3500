@@ -12,10 +12,10 @@ Talk.ready.then(function () {
     });
     var other = new Talk.User({
       id: '654321',
-      name: 'Sebastian',
-      email: 'Sebastian@example.com',
+      name: 'Marco',
+      email: 'Marco@example.com',
       photoUrl: 'https://talkjs.com/images/avatar-5.jpg',
-      welcomeMessage: 'Hey, how can I help?',
+      welcomeMessage: 'Hey, Are you listening to music?',
     });
   
     var conversation = talkSession.getOrCreateConversation(
