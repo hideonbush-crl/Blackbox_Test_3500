@@ -1,7 +1,7 @@
 function iterateRecords(results) {
     setTimeout(function() {
         $(".map-body").addClass("loaded");
-    }, 3000);
+    }, 2000);
 	// Setup the map as per the Leaflet instructions:
 	// https://leafletjs.com/examples/quick-start/
 	var map = L.map('map').setView([-27.4975, 153.0134], 19);
