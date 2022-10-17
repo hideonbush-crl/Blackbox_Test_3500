@@ -45,3 +45,15 @@ body{
     opacity: 0;
     visibility: hidden;
 }
+
+.agree{
+    position: relative;
+    width: 5em;
+    height: 2.5em;
+    color: white;
+    left: 60%;
+    top: 5%;
+    background-color: green;
+    border:none;
+    border-radius: 5px; 
+}

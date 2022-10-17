@@ -26,4 +26,19 @@ Talk.ready.then(function () {
   
     var inbox = talkSession.createInbox({ selected: conversation });
     inbox.mount(document.getElementById('talkjs-container'));
+
+    var popup = window.talkSession.createPopup();
+    popup.createHtmlPanel({
+      url: 'friend.html', // or an absolute url: "https://mywebsite.com/frames/register-form.html"
+      height: 300,
+      show: true,
+    });
+    popup.mount({ show: false });
+
+
+    var button = document.getElementById('btn-getInTouch');
+      button.addEventListener('click', function (event) {
+        event.preventDefault();
+        alert("Add a friend");
+    });
   });
