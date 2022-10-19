@@ -26,13 +26,15 @@ In the gap time between classes, music is used to allow UQ students to create co
 ## Designing and Prototyping Process
 ## Literature Research
 ### Literature Research:
-#### Part 1: Domain Research
+
+#### Part 1: Observation, survey, and interviews between UQ students
+......
+
+#### Part 2: Domain Research
 -	The users in their 20s wish to share their musical taste with various people, not only with their acquaintances, in everyday spaces and when on the move.
 -	Interactions between collocated strangers and sharing of song choices can create a sense of commonality between them.
 -	Music can create interpersonal bonds between young people as music preferences can be cues for similar or dissimilar value orientations, with similarity in values then contributing to social attraction.
 
-#### Part 2: Observation, survey, and interviews between UQ students
-......
 
 #### Part 3: Existing solutions
 ......
