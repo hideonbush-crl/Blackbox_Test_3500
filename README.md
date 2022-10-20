@@ -115,7 +115,7 @@ Based on the cognitive walks completed by three experts, we found that the ease 
 ## Team Role
 | Member Name  | Role   |
 | ------------- | ------------- |
-| Bokai Zhang |  |
+| Bokai Zhang | Evaluation superviser |
 | Wenfang Hao | Leader |
 | Yi Yang | Designer |
 | Yuanye Zhang |  |
