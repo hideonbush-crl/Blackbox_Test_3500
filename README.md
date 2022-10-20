@@ -88,8 +88,13 @@ For existing design attempts from research, the focus has been on young people l
 #### Result
 #### Changes
 
-#### Congnitive walkthrough
-
+### Congnitive walkthrough
+#### Process
+The purpose of implementing a cognitive walkthrough is because the design elements of our applications are very rich and complex and may be lacking in learnability. We decided to use a cognitive walkthrough to help us identify these potential problems and solve them. We hope that our final iteration of the app will be somewhat easier to learn and less confusing for new users to use.
+#### Result
+Based on the cognitive walks completed by three experts, we found that the ease of learning of our applications was not a serious problem, but there were some improvements needed. Based on the results of the assessment it was found that. We lacked user guide, interactions that convey emotion to others and listening together. 
+#### Changes
+ To address these issues, the idea was to add user navigation to our next version of the prototype to make the meaning of the elements on the page clearer to the user. Adding the ability to send emoticons to the chat function. The ability to listen to other people's music together when they share it. Easier and more accurate use of our app will help students to be more effective in making friends during gap time.
 ### High-Fidelity Prototype Final Version
 
 ### Future direction
