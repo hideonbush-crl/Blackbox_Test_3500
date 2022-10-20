@@ -18,7 +18,15 @@ MusiX is the project for DECO3500 Social & Mobile Computing Course from the Blac
 
 
 - Unity Prototype. [View here]()
-
+#### For Unity project, these platforms have the best compatibility:
+- Unity Hub: 3.3.0
+- Unity Editor: 2021.3.8f1
+#### To work the Unity project:
+1. Open the Unity Hub.
+2. click "Open" button, select "Add project from disk".
+3. Select the Unity folder.
+4. Select the Unity Editor Version: 2021.3.8f1.
+5. Open this project.
 
 
 ## Summary
