@@ -10,7 +10,7 @@ MusiX is the project for DECO3500 Social & Mobile Computing Course from the Blac
 
 ## Kickstarter Video (Promotional Material)
 
-[Kickstarter Video Link](https://www.youtube.com/watch?v=reZZxNtCyBI)
+[Kickstarter Video Link](https://youtu.be/ug0sHe-nBAE)
 
 
 ## Prototype
