@@ -33,17 +33,18 @@ MusiX is the project for DECO3500 Social & Mobile Computing Course from the Blac
 ## Summary
 
 ### Problem space
-#### Music sharing
-- Music sharing in general usually takes place between friends. 
-- Music sharing between strangers often happens on the internet.
+- Young people are socialising mostly through social media. 
+- Young people are lacking in icebreaker topics when socialising.
+
 
 ### Design Opportunity
-- Many UQ students often choose to stay on their own, listening to music during their gap time between classes.
+- UQ students have the intention to make friends during the gap time.
+-	Students like to spend their gap time on the Great Court.
 - Music can build interpersonal relationships between young people because the same musical preferences can be a clue to similar values, and similarities in values contribute to social attraction. For friendship development, social attraction is the first social process that may contribute to relationship development.
 - Young people want to make friends with people who have similar interests to their own.
 
 ### Our solution
-In the gap time between classes, music is used to allow UQ students to create communication and improve social interaction between students by allowing them to find common ground through the same musical preferences.
+In the gap time between classes in the Great Court, implementing a system between UQ students through music sharing allow them to create communication and improve social interaction by letting them find common ground through the same musical preferences.
 
 
 ## Designing and Prototyping Process
