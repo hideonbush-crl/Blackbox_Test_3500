@@ -120,5 +120,5 @@ Based on the cognitive walks completed by three experts, we found that the ease 
 | Wenfang Hao | Leader |
 | Yi Yang | Web Designer |
 | Yuanye Zhang | Supporter |
-| Yuqi Yang | Designer |
+| Yuqi Yang | Prototype Designer |
 | Zhiyuan Xu | Unity Designer |
