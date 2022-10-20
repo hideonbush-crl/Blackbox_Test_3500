@@ -99,3 +99,11 @@ For existing design attempts from research, the focus has been on young people l
 - Focus more on those who are shared to make it easier and more accurate for them to receive and give feedback on other’s music.  
 
 ## Team Role
+| Member Name  | Role   |
+| ------------- | ------------- |
+| Bokai Zhang |  |
+| Wenfang Hao | Leader |
+| Yi Yang | Designer |
+| Yuanye Zhang |  |
+| Yuqi Yang | Designer |
+| Zhiyuan Xu | Designer |
