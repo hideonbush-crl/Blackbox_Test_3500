@@ -1,13 +1,27 @@
 # Blackbox_Test_3500
 
-This is the project for DECO3500 Social & Mobile Computing Course from the Blackbox test team. It aims to increase conversation and social interaction between students in the gap time between classes in a shared space.
+MusiX is the project for DECO3500 Social & Mobile Computing Course from the Blackbox test team. MusiX is created for UQ students who are bored during gap time between classes at the Great Court. It aims to enhance face-to-face conversation and social interaction through music sharing to make the most of their free time.
 
 
-# Poster
+## Poster (Promotional Material)
+![DECO3500 Poster](https://user-images.githubusercontent.com/90740412/196862258-81ef9e08-fd95-4b8d-8ffd-5636b8167d8f.png)
 
-# Prototype
 
-# Summary
+
+## Kickstarter Video (Promotional Material)
+
+[Kickstarter Video Link](https://www.youtube.com/watch?v=reZZxNtCyBI)
+
+
+## Prototype
+-	InVision Prototype. [View here]()
+
+
+- Unity Prototype. [View here]()
+
+
+
+## Summary
 
 ### Problem space
 #### Music sharing
