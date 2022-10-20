@@ -28,6 +28,7 @@ MusiX is the project for DECO3500 Social & Mobile Computing Course from the Blac
 4. Select the Unity folder from Unity project.
 5. Select the Unity Editor Version: 2021.3.8f1.
 6. Open this project.
+7. Build the unity project to Iphone.
 
 
 ## Summary
