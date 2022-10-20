@@ -87,7 +87,7 @@ Users will provide comments on our Mid-fidelity models based on the individual t
 #### Result
 Adding emoji and friending features to the new prototype to help users better find emotional connections to become and stay friends.
 #### Changes
-Increased chat function and listen together function.
+Added chat function and listen together function.
 
 
 
