@@ -14,6 +14,7 @@ MusiX is the project for DECO3500 Social & Mobile Computing Course from the Blac
 
 
 ## Prototype
+- Website Project. [Click here](https://hideonbush-crl.github.io/blackboxtest3500.github.io/)
 - Unity Project. [Download here](https://github.com/hideonbush-crl/blackboxtest3500.github.io/archive/refs/tags/v1.0.0.zip)
 #### For Unity project, these platforms have the best compatibility:
 - Unity Hub: 3.3.0
