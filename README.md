@@ -71,7 +71,7 @@ For existing design attempts from research, the focus has been on young people l
 ### Mid-Fidelity Prototype - Version 1
 ### Heuristic Evaluation
 #### Process
-Users will provide comments on our Mid-fidelity models based on the individual tasks provided.
+Users will provide comments on our Mid-fidelity models based on the individual tasks provided.Testing of users with different identities through heuristic evaluation. The results of users completing tasks are evaluated to find purposes that fit our theme and to improve them.
 #### Result
 The product lacks the functionality of face-to-face interaction between users. Simply expressing through pictures does not allow people to empathize well.
 #### Ramining Issues:
@@ -82,7 +82,7 @@ How to facilitate face-to-face communication between users.
 ### Mid-Fidelity Prototype - Version 2
 ### Heuristic Evaluation
 #### Process
-Users will provide comments on our Mid-fidelity models based on the individual tasks provided.
+Users will provide comments on our Mid-fidelity models based on the individual tasks provided.Testing of users with different identities through heuristic evaluation. Due to a shift in our focus, the principles of the questions for the heuristic evaluation have all been changed to be more in line with our current philosophy. Based on the results of the evaluation the preparation of a high-fidelity prototype was started.
 #### Result
 Adding emoji and friending features to the new prototype to help users better find emotional connections to become and stay friends.
 #### Changes
@@ -93,7 +93,7 @@ Increased chat function and listen together function.
 ### High-Fidelity Prototype
 ### Heuristic Evaluation
 #### Process
-Users will provide comments on our High-fidelity models based on the individual tasks provided.
+Users will provide comments on our High-fidelity models based on the individual tasks provided.Testing of users with different identities through heuristic evaluation. Design tasks for new and improved features to be tested by experts Test results help us iterate on high-fidelity prototypes.
 #### Result
 Through heuristic evaluation we found that the personal information our application displays to other users is not enough to give users sufficient opportunities to make friends.
 #### Changes
