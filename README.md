@@ -71,10 +71,10 @@ For existing design attempts from research, the focus has been on young people l
 ### Mid-Fidelity Prototype - Version 1
 ### Heuristic Evaluation
 #### Process
-Users will provide comments on our Mid-fidelity models based on the individual tasks provided.Testing of users with different identities through heuristic evaluation. The results of users completing tasks are evaluated to find purposes that fit our theme and to improve them.
+Users will provide comments on our Mid-fidelity models based on the individual tasks provided. Testing of users with different identities through heuristic evaluation. The results of users completing tasks are evaluated to find purposes that fit our theme and to improve them.
 #### Result
-The product lacks the functionality of face-to-face interaction between users. Simply expressing through pictures does not allow people to empathize well.
-#### Ramining Issues:
+The product lacks the opportunity for face-to-face interaction between users. Simply expressing through pictures does not allow people to empathize well.
+#### Remaining Issues:
 How to facilitate face-to-face communication between users.
 
 
@@ -82,7 +82,7 @@ How to facilitate face-to-face communication between users.
 ### Mid-Fidelity Prototype - Version 2
 ### Heuristic Evaluation
 #### Process
-Users will provide comments on our Mid-fidelity models based on the individual tasks provided.Testing of users with different identities through heuristic evaluation. Due to a shift in our focus, the principles of the questions for the heuristic evaluation have all been changed to be more in line with our current philosophy. Based on the results of the evaluation the preparation of a high-fidelity prototype was started.
+Users will provide comments on our Mid-fidelity models based on the individual tasks provided. Testing of users with different identities through heuristic evaluation. Due to a shift in our focus, the principles of the questions for the heuristic evaluation have all been changed to be more in line with our current philosophy. Based on the results of the evaluation, the preparation of a high-fidelity prototype was started.
 #### Result
 Adding emoji and friending features to the new prototype to help users better find emotional connections to become and stay friends.
 #### Changes
@@ -93,19 +93,19 @@ Increased chat function and listen together function.
 ### High-Fidelity Prototype
 ### Heuristic Evaluation
 #### Process
-Users will provide comments on our High-fidelity models based on the individual tasks provided.Testing of users with different identities through heuristic evaluation. Design tasks for new and improved features to be tested by experts Test results help us iterate on high-fidelity prototypes.
+Users will provide comments on our High-fidelity models based on the individual tasks provided. Testing of users with different identities through heuristic evaluation. Design tasks for new and improved features to be tested by experts Test results help us iterate on high-fidelity prototypes.
 #### Result
-Through heuristic evaluation we found that the personal information our application displays to other users is not enough to give users sufficient opportunities to make friends.
+Through heuristic evaluation, we found that the personal information our application displays to other users is not enough to give users sufficient opportunities to make friends.
 #### Changes
-Added the function of sending emoji and the feature of adding friends.
+Added the function of sending emojis and the feature of adding friends.
 
-### Congnitive walkthrough
+### Cognitive walkthrough
 #### Process
-The purpose of implementing a cognitive walkthrough is because the design elements of our applications are very rich and complex and may be lacking in learnability. We decided to use a cognitive walkthrough to help us identify these potential problems and solve them. We hope that our final iteration of the app will be somewhat easier to learn and less confusing for new users to use.
+The purpose of implementing a cognitive walkthrough is because the design elements of our applications are very rich and complex and may be lacking in learnability. We decided to use a cognitive walkthrough to help us identify and solve these potential problems. We hope that our final system iteration will be somewhat easier to learn and less confusing for new users to use.
 #### Result
-Based on the cognitive walks completed by three experts, we found that the ease of learning of our applications was not a serious problem, but there were some improvements needed. Based on the results of the assessment it was found that. We lacked user guide, interactions that convey emotion to others and listening together. 
+Based on the cognitive walks completed by three experts, we found that the ease of learning our applications was not a serious problem, but some improvements were needed. Based on the results of the assessment, it was found that we lacked user guides, interactions that convey emotion to others and listening together. 
 #### Changes
- To address these issues, the idea was to add user navigation to our next version of the prototype to make the meaning of the elements on the page clearer to the user. Adding the ability to send emoticons to the chat function. The ability to listen to other people's music together when they share it. Easier and more accurate use of our app will help students to be more effective in making friends during gap time.
+ To address these issues, the idea was to add user navigation to our next prototype version to make the meaning of the elements on the page clearer to the user. Adding the feature to send emoticons to the chat function. The ability to listen to other people's music together when they share it. Easier and more accurate use of our app will help students to be more effective in making friends during gap time.
 ### High-Fidelity Prototype Final Version
 
 ### Future direction
