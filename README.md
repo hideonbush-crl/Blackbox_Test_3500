@@ -119,6 +119,6 @@ Based on the cognitive walks completed by three experts, we found that the ease 
 | Bokai Zhang | Evaluation superviser |
 | Wenfang Hao | Leader |
 | Yi Yang | Designer |
-| Yuanye Zhang |  |
+| Yuanye Zhang | Supporter |
 | Yuqi Yang | Designer |
 | Zhiyuan Xu | Designer |
