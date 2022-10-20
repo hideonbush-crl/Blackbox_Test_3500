@@ -17,16 +17,17 @@ MusiX is the project for DECO3500 Social & Mobile Computing Course from the Blac
 -	InVision Prototype. [View here]()
 
 
-- Unity Project. [View here](https://github.com/hideonbush-crl/blackboxtest3500.github.io/archive/refs/tags/v1.0.0.zip)
+- Unity Project. [Download here](https://github.com/hideonbush-crl/blackboxtest3500.github.io/archive/refs/tags/v1.0.0.zip)
 #### For Unity project, these platforms have the best compatibility:
 - Unity Hub: 3.3.0
 - Unity Editor: 2021.3.8f1
 #### To work the Unity project:
-1. Open the Unity Hub.
-2. click "Open" button, select "Add project from disk".
-3. Select the Unity folder.
-4. Select the Unity Editor Version: 2021.3.8f1.
-5. Open this project.
+1. Download the Unity project.
+2. Open the Unity Hub.
+3. click "Open" button, select "Add project from disk".
+4. Select the Unity folder from Unity project.
+5. Select the Unity Editor Version: 2021.3.8f1.
+6. Open this project.
 
 
 ## Summary
