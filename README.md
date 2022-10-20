@@ -71,13 +71,17 @@ For existing design attempts from research, the focus has been on young people l
 ### Mid-Fidelity Prototype - Version 1
 ### Heuristic Evaluation
 #### Process
+Users will provide comments on our Mid-fidelity models based on the individual tasks provided.
 #### Result
+
 #### Changes
+
 
 
 ### Mid-Fidelity Prototype - Version 2
 ### Heuristic Evaluation
 #### Process
+Users will provide comments on our Mid-fidelity models based on the individual tasks provided.
 #### Result
 #### Changes
 
@@ -85,6 +89,7 @@ For existing design attempts from research, the focus has been on young people l
 ### High-Fidelity Prototype
 ### Heuristic Evaluation
 #### Process
+Users will provide comments on our High-fidelity models based on the individual tasks provided.
 #### Result
 #### Changes
 
