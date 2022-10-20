@@ -73,8 +73,9 @@ For existing design attempts from research, the focus has been on young people l
 #### Process
 Users will provide comments on our Mid-fidelity models based on the individual tasks provided.
 #### Result
-
-#### Changes
+The product lacks the functionality of face-to-face interaction between users. Simply expressing through pictures does not allow people to empathize well.
+#### Ramining Issues:
+How to facilitate face-to-face communication between users.
 
 
 
@@ -83,7 +84,10 @@ Users will provide comments on our Mid-fidelity models based on the individual t
 #### Process
 Users will provide comments on our Mid-fidelity models based on the individual tasks provided.
 #### Result
+Adding emoji and friending features to the new prototype to help users better find emotional connections to become and stay friends.
 #### Changes
+Increased chat function and listen together function.
+
 
 
 ### High-Fidelity Prototype
@@ -91,7 +95,9 @@ Users will provide comments on our Mid-fidelity models based on the individual t
 #### Process
 Users will provide comments on our High-fidelity models based on the individual tasks provided.
 #### Result
+Through heuristic evaluation we found that the personal information our application displays to other users is not enough to give users sufficient opportunities to make friends.
 #### Changes
+Added the function of sending emoji and the feature of adding friends.
 
 ### Congnitive walkthrough
 #### Process
